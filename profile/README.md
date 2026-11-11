@@ -7,7 +7,7 @@ Audits, fractional platform engineering, and compliance readiness for regulated 
 | Project | What it does |
 | --- | --- |
 | [CRA-Check](https://github.com/wickitlab/CRA-Check) | A free GitHub Action that generates a CycloneDX SBOM, scans for CVEs and emits CRA evidence mapped to Annex I and VII on every build. |
-| [ProofLog](https://github.com/wickitlab/ProofLog) | Hash-chained, ECDSA-signed audit-log SDK for .NET: tamper-evident, identity-bound evidence. |
+| [ProofLog](https://github.com/wickitlab/ProofLog) | Hash-chained, ECDSA-signed audit-log SDK for .NET: tamper-evident, identity-bound evidence. On [NuGet](https://www.nuget.org/packages/ProofLog). |
 | [SecureCheck](https://github.com/wickitlab/SecureCheck) | Reusable GitHub Actions security pipeline: Gitleaks, Semgrep, Trivy, linters and complexity checks in one verdict. |
 | [ThreatLens](https://github.com/wickitlab/ThreatLens) | Log aggregation and correlation engine on .NET Aspire, with OpenTelemetry observability. |
 | [BlueFlame](https://github.com/wickitlab/BlueFlame) | Privacy-first browser shell with an embedded filtering proxy and optional Tor routing, in Tauri and Rust. |
